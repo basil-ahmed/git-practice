@@ -1,2 +1,9 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Interesting Software Development Article
+
+I recently came across an interesting article on [Medium](https://medium.com/geekculture/5-ai-tools-every-software-developer-should-be-using-in-2022-afc4fb149c60) that discusses the future of software development and the impact of AI and automation. 
+
+![AI in Software Development](https://miro.medium.com/v2/resize:fit:1400/0*bgrmToHI0lUBf8el.gif)
+
+The article explores how AI is revolutionizing various aspects of software engineering, from code generation to testing and deployment. It also highlights the specific tools every Software Developer should be using in 2023. 
+
+I find it fascinating how AI is reshaping the software development landscape and look forward to seeing how these advancements will shape the industry in the coming years.
